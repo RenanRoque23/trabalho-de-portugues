@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+    text-align: center;
+}
+#caçapalavras{
+    width: 70%;
+    height: auto ;
+}
+#caçada{
+    background-color:blue ;
+}
+#quiz{
+    background-color: blue ;
+}
+#creditos{
+ height: 8px ;
+ width: auto;
+ color:blue;
+}
+#titulosdasseçoes{
+    color: orange;
+}
+#caçacoiso{
+    width: 70%;
+    height: auto ;
+}
+
+    
